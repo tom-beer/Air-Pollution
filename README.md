@@ -1,4 +1,5 @@
-<img src="logo.png" width=125 height=125 align="right">
+
+<img src="logo2.png" width=125 height=125 align="right">
 
 # Air Pollution
 An attempt to analyze Haifa's air quality
