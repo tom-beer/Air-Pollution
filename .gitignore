@@ -2,3 +2,5 @@ settings.ini
 more\ data/*
 .ipynb_checkpoints/*
 .idea/*
+"Notebooks and code"/.ipynb_checkpoints/*
+"Notebooks and code"/__pycache__/*
