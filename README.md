@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/license/tom-beer/Air-Pollution?color=magenta&style=plastic)
 
 <img src="Images/logo2.png" width=125 height=125 align="right">
 
