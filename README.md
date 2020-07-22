@@ -20,6 +20,11 @@ Included in the *notebooks and code* folder are two analyses:
 ---
 Some plots from the exploration phase:
 
+<img src="Images/all.png" width=500 height=500 align="middle">
+
+<img src="Images/week_nox_box.png" width=500 height=300 align="middle">
+
+<img src="Images/hours.png" width=500 height=500 align="middle">
 
 ---
 logo created by [jokokerto](https://thenounproject.com/search/?q=pollution&i=2983070) from the Noun Project
