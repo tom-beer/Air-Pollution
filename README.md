@@ -18,7 +18,7 @@ Included in the *notebooks and code* folder are two analyses:
     The relevant notebook is `Haifa LEZ Synthetic Control.ipynb`
 
 ---
-Some plots from the exploration phase:
+### Some plots from the exploration phase
 
 <img src="Images/all.png" width=500 height=500 align="middle">
 
